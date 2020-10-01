@@ -1,0 +1,2 @@
+# Hello, It's Alice
+A simple, responsive and accessible portfolio site inspired by [Jim Nielsen](https://webdesign.tutsplus.com/tutorials/build-a-responsive-single-page-portfolio-with-sass-and-compass--webdesign-10734).
